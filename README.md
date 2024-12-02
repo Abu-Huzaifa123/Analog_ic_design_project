@@ -1,5 +1,19 @@
 # Analog_ic_design_project
 
-Abu huzaifa
+# Internally Compensated LDO
 
-![Screenshot 2024-12-03 005725](https://github.com/user-attachments/assets/4172a7b1-bec3-40f0-9ca5-af5a19a47d43)
+## Low Load(2ma)
+
+### Case-1: Loop gain analysis:-
+
+**Schematic**
+
+![Screenshot 2024-12-03 005353](https://github.com/user-attachments/assets/fc3e2542-032c-45e3-96dd-461fecbc8596)
+
+**Explanation of the artifact used:-**
+
+
+
+
+
+
