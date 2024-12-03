@@ -8,12 +8,13 @@
 
 **Schematic**
 
-![Screenshot 2024-12-03 005353](https://github.com/user-attachments/assets/fc3e2542-032c-45e3-96dd-461fecbc8596)
+![Screenshot 2024-12-03 215715](https://github.com/user-attachments/assets/fee7a096-3ef0-4455-93e6-fe4644fbe93d)
 
 **Explanation of the artifact used:-**
 
 **Output log file:-**
-![image](https://github.com/user-attachments/assets/eaa573e8-55d6-4d4f-8b34-f99000a06374)
+![image](https://github.com/user-attachments/assets/fe15a521-710d-4b12-8d1d-5b0adb58d749)
+
 
 ## Transistor Operating Regions Table
 
@@ -21,13 +22,15 @@
 
 ### Phase margin
 
-![Screenshot 2024-12-03 005725](https://github.com/user-attachments/assets/e8a8ee19-77a7-44c5-bcf5-e0a49d27a6af)
+![Screenshot 2024-12-03 215638](https://github.com/user-attachments/assets/d2b6bc1d-3ad0-491b-87d3-3b8aa7483429)
+
 
 ## Case 2:- Open Loop PSRR calculation
 
 ### Schematic
 
-![Screenshot 2024-12-03 010309](https://github.com/user-attachments/assets/0af7b0af-1653-4a86-892c-8cf116a01e22)
+![image](https://github.com/user-attachments/assets/db534bfc-6962-404b-a3ac-95dc34842b4c)
+
 
 ### Explanation of the artifact
 
@@ -38,7 +41,7 @@
 
 ### Schematic
 
-![Screenshot 2024-12-03 011340](https://github.com/user-attachments/assets/e4d0121d-7247-44ca-b880-4a5ceb4a4477)
+![image](https://github.com/user-attachments/assets/3af5bdd6-786e-43df-8d68-c779ad49a757)
 
 ### Explanation of the artifact
 
@@ -53,18 +56,21 @@
 
 ### Schematic
 
-![Screenshot 2024-12-03 010033](https://github.com/user-attachments/assets/6b1533a9-6b91-4f9c-939e-cdeb1591e0a3)
+![Screenshot 2024-12-03 215850](https://github.com/user-attachments/assets/ef1ab793-0dc1-4552-bfd4-999130da643c)
+
 
 ### Python plots
 
 
 ### Phase margin
 
-![Screenshot 2024-12-03 005925](https://github.com/user-attachments/assets/d1c482b0-0346-473a-a8dc-942c4493c3eb)
+![Screenshot 2024-12-03 215830](https://github.com/user-attachments/assets/b3944f33-0b71-4fd6-9b2e-25f150c0f6ff)
+
 
 ### Spice Output Log
 
-![image](https://github.com/user-attachments/assets/ca67d7ce-4798-4ce6-870e-29fd09b9a144)
+![image](https://github.com/user-attachments/assets/9d00a5a7-42af-46dc-b791-85d6535928f8)
+
 
 ## Transistor Operating Regions Table
 
@@ -72,7 +78,8 @@
 
 ### Schematic
 
-![Screenshot 2024-12-03 010619](https://github.com/user-attachments/assets/dd01db3b-8779-4e95-a368-4aa77f0e6756)
+![image](https://github.com/user-attachments/assets/ec1025c3-24ea-4bee-8f06-04e198f5c7e2)
+
 
 ### Python plots
 
@@ -80,7 +87,7 @@
 
 ### Schematic
 
-![Screenshot 2024-12-03 011229](https://github.com/user-attachments/assets/f47b3fde-dc9a-41d0-9322-597154052598)
+![image](https://github.com/user-attachments/assets/112705cf-8831-4b34-a88a-96ed6861a41c)
 
 ### Python plots
 
@@ -88,11 +95,12 @@
 
 ### Schematic
 
-![image](https://github.com/user-attachments/assets/b9511a9d-e1cc-4410-9b0d-d8c60d6e30d3)
+![image](https://github.com/user-attachments/assets/f58b0da4-1fec-4ac7-bac4-430dd49bf492)
+
 
 
 ### Ltspice Output:-
-![image](https://github.com/user-attachments/assets/e2e1c866-1cb2-4aaf-a2ea-945b8a259dc8)
+![image](https://github.com/user-attachments/assets/c3b5884f-3f67-4d78-a7ab-df21042d98df)
 
 ### Python Plots:-
 
