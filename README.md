@@ -16,9 +16,34 @@
 ![image](https://github.com/user-attachments/assets/fe15a521-710d-4b12-8d1d-5b0adb58d749)
 
 
-## Transistor Operating Regions Table
+# Transistor Operating Regions Table
+
+This document provides a table summarizing the operating regions of several transistors based on their parameters.
+
+## Table:
+
+| **Transistor** | **Type** | **Vds (V)** | **Vgs/Vsg (V)** | **Vt (V)** | **Vgs/Vsg - Vt (V)** | **Operating Region**   |
+|----------------|----------|-------------|------------------|------------|-----------------------|------------------------|
+| M1            | PMOS     | 0.652       | 0.652           | 0.489      | 0.163                | Saturation             |
+| M2            | PMOS     | 0.522       | 0.652           | 0.490      | 0.162                | Saturation             |
+| M3            | PMOS     | 0.364       | 0.522            | 0.481      | 0.041                | Saturation             |
+| M4            | NMOS     | 0.734       | 0.734           | 0.467        | 0.267                | Saturation             |
+| M5            | NMOS     | 0.485       | 0.607           | 0.468      | 0.139                | Saturation             |
+| M6            | NMOS     | 0.355       | 0.609           | 0.468      | 0.141                | Saturation             |
+| M7            | NMOS     | 0.393       | 0.734           | 0.468      | 0.266                | Saturation             |
+| M8            | NMOS     | 1.04        | 0.734           | 0.466      | 0.268                | Saturation             |
+
+
+
+
+
+
+
 
 ### Output on Python:-
+
+![image](https://github.com/user-attachments/assets/59d290cc-2641-4349-8903-37ea35e7dffb)
+
 
 ### Phase margin
 
@@ -61,6 +86,8 @@
 
 ### Python plots
 
+![image](https://github.com/user-attachments/assets/9da2dfa9-82bd-4dce-8acd-4f49614c0e35)
+
 
 ### Phase margin
 
@@ -72,7 +99,24 @@
 ![image](https://github.com/user-attachments/assets/9d00a5a7-42af-46dc-b791-85d6535928f8)
 
 
-## Transistor Operating Regions Table
+# Transistor Operating Regions Table
+
+This document provides a table summarizing the operating regions of several transistors based on their parameters.
+
+## Table:
+
+| **Transistor** | **Type** | **Vds (V)** | **Vgs/Vsg (V)** | **Vt (V)** | **Vgs/Vsg - Vt (V)** | **Operating Region**   |
+|----------------|----------|-------------|------------------|------------|-----------------------|------------------------|
+| M1            | PMOS     | 0.651       | 0.651           | 0.489      | 0.162                | Saturation             |
+| M2            | PMOS     | 0.64        | 0.651           | 0.489      | 0.162                | Saturation             |
+| M3            | PMOS     | 0.367       | 0.64            | 0.481      | 0.159                | Saturation             |
+| M4            | NMOS     | 0.734       | 0.734           | 0.467        | 0.267                | Saturation             |
+| M5            | NMOS     | 0.368       | 0.609           | 0.468      | 0.141                | Saturation             |
+| M6            | NMOS     | 0.358       | 0.609           | 0.468      | 0.141                | Saturation             |
+| M7            | NMOS     | 0.391       | 0.734           | 0.468      | 0.266                | Saturation             |
+| M8            | NMOS     | 1.03        | 0.734           | 0.466      | 0.268                | Saturation             |
+
+
 
 ## Case 2:- Open Loop PSRR calculation
 
